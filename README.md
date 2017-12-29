@@ -12,3 +12,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ##How To Contribute 
+
+##Copyright
+2014 Git.training
